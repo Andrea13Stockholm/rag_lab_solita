@@ -1,0 +1,1 @@
+This repo is for upskills purposes and it is mimicking a course given at Solita by Erik Kronberg och Jan Fredrik Stein.
